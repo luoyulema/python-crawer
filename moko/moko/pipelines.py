@@ -33,7 +33,7 @@ class MokoMysqlPipeline(object):
             host='127.0.0.1',
             db='moko',
             user='root',
-            passwd='mydream5',
+            passwd='xxxxxx',
             cursorclass=MySQLdb.cursors.DictCursor,
             charset='utf-8',
             use_unicode=False,
